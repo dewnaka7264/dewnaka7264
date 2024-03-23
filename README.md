@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dewnaka Kavirathne</h1>
 <h3 align="center">Technophile from Sri Lanka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/65/46/a665463e60ef772c82286e4ee6a15353.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewnaka7264&label=Profile%20views&color=0e75b6&style=flat" alt="dewnaka7264" /> </p>
 
 
